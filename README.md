@@ -1,4 +1,4 @@
-# Ana Anaylsis of Kickstarter Campaigns
+# An Analsyis of Kickstarter Campaigns
 Performing analysis on Kickstart data to uncover trends---
 ## Overview
 The purpose of the Kickstarter Analysis was to assist Louis who is a playwright in evaluating her options to launch a Kickstarter campaign. In the analysis data is pulled from successful, failed, canceled, and live fundraiser campaigns internationally and in the US. In the Kickstarter database and sheet we organized information through color categories and set conditional filters for percentages of funded campaigns.  We also created parent and subcategories to assist in the creation of pivot tables---
